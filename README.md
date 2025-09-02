@@ -3,8 +3,20 @@ Hi, i'm **Mauricio Guevara**, a physics student from Bogotá, Colombia.<br>I'm i
 
 ## 💡 Projects with My Work
 
-I'm currently learning how to analyse ATLAS Open Data using ROOT framework.
-And working on a project trying to replicate CosmicWatch project in my university.
+**ATLAS Open Data Analysis (using ROOT)**
+Applied statistical methods and data visualization to large-scale particle physics datasets, showcasing experience in big data and quantitative analysis.
+
+**Neural Networks vs Analytical Solutions**
+Modeled a physical system (skydiver motion with drag) using RNNs and LSTMs, comparing their performance to analytical solutions. Highlights ability to use AI for scientific and predictive modeling.
+
+**Deep Learning with Keras/TensorFlow**
+Developed predictive models and a CNN classifier, demonstrating hands-on skills in machine learning and deep learning frameworks.
+
+**Monte Carlo Applications in High Dimensions**
+Implemented and compared Monte Carlo integration with analytic and SciPy-based methods across multiple dimensions, showing expertise in stochastic methods and high-dimensional data analysis.
+
+**Netflix Dataset Analysis**
+Performed data cleaning, preprocessing, and visualization of a real-world dataset (2008–2021), illustrating practical skills in data science workflows.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/johann-mauricio-guevara-hern%C3%A1ndez-2708b8181/) 
