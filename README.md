@@ -1,6 +1,15 @@
 # 💫 About Me:
-Hi, i'm **Mauricio Guevara**, a physics student from Bogotá, Colombia.<br>I'm interested in particle physics, i have some works with **Python**, **C++**<br>I'm looking for a data analysis related job.<br><br>
+Hi! I'm Mauricio Guevara, a physics student from Bogotá, Colombia.
 
+My main interests are:
+
+- Quantum Computing
+- Particle Physics
+- Scientific Computing
+- Numerical Methods
+- Machine Learning for Physics
+
+I'm currently developing projects that combine quantum computing with particle physics simulations and scientific computing.
 ## 💡 Projects with My Work
 
 **ATLAS Open Data Analysis (using ROOT)**
